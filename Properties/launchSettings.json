@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "Com.StarZ.Hangfire": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://*:5001;http://*:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
